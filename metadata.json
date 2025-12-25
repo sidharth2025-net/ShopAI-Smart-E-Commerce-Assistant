@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ShopAI: Smart E-commerce Assistant",
+  "description": "An AI-powered product search and comparison assistant that aggregates deals from top platforms like Amazon, Flipkart, and more, providing AI scores and personalized recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
